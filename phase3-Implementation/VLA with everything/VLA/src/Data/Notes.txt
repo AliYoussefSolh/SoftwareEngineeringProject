@@ -1,0 +1,10 @@
+2042424 | ajlkfds.txt | 202004410 | 111490 | true | false
+2006832 | ajlkfds.txt | 202004426 | 111496 | true | false
+27462540 | notex.txt | 202004433 | 111498 | false | false
+1348619330 | notex.txt | 202004410 | 111490 | false | false
+734330 | ali-notes.txt | 202004410 | 111494 | false | false
+1021472702 | censoring review.txt | 202004410 | 111490 | true | true
+914144741 | functionalities.txt | 202004410 | 111499 | false | false
+907431510 | testing vla.txt | 202004410 | 111490 | false | false
+1685940206 | sample note.txt | 202004414 | 111490 | true | true
+420987 | TestNoteFile.txt | 202004410 | 111490 | false | false

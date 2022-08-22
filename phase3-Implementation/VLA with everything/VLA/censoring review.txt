@@ -1,0 +1,11 @@
+static String censor(String text) {
+    Map<String, String> filters = Map.of(
+        "hello", "h*llo",
+        "world", "w*rld",
+        "apple", "*****"
+    );
+    for (var filter : filters.entrySet()) {
+        text = text.replace(filter.getKey(), filter.getValue());
+    }
+    return text;
+}

@@ -1,0 +1,121 @@
+<mxfile host="65bd71144e">
+    <diagram id="Zrlpq76csqPNflgDLIa0" name="Page-1">
+        <mxGraphModel dx="1298" dy="702" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="OZ8-94Fc8UWZDtkoLy-S-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFE599;" parent="1" vertex="1">
+                    <mxGeometry x="200" y="160" width="360" height="640" as="geometry"/>
+                </mxCell>
+                <mxCell id="OZ8-94Fc8UWZDtkoLy-S-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6FFCC;" parent="1" vertex="1">
+                    <mxGeometry x="560" y="160" width="360" height="640" as="geometry"/>
+                </mxCell>
+                <mxCell id="OZ8-94Fc8UWZDtkoLy-S-3" value="Student Web Page" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+                    <mxGeometry x="305" y="170" width="120" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="OZ8-94Fc8UWZDtkoLy-S-4" value="Web Server" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+                    <mxGeometry x="670" y="170" width="80" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="OZ8-94Fc8UWZDtkoLy-S-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFE599;" parent="1" vertex="1">
+                    <mxGeometry x="915" y="160" width="360" height="640" as="geometry"/>
+                </mxCell>
+                <mxCell id="OZ8-94Fc8UWZDtkoLy-S-6" value="Administrator Web Page" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+                    <mxGeometry x="1020" y="170" width="150" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="OZ8-94Fc8UWZDtkoLy-S-7" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" parent="1" vertex="1">
+                    <mxGeometry x="350" y="210" width="30" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="OZ8-94Fc8UWZDtkoLy-S-8" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" parent="1" source="OZ8-94Fc8UWZDtkoLy-S-7" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="365" y="300" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="OZ8-94Fc8UWZDtkoLy-S-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OZ8-94Fc8UWZDtkoLy-S-10" target="OZ8-94Fc8UWZDtkoLy-S-12" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="OZ8-94Fc8UWZDtkoLy-S-10" value="Enter the notes web page in the VLA" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="300" y="300" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="OZ8-94Fc8UWZDtkoLy-S-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OZ8-94Fc8UWZDtkoLy-S-12" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="360" y="540" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="OZ8-94Fc8UWZDtkoLy-S-12" value="Choose the course he want to upload his notes to" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="300" y="420" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="OZ8-94Fc8UWZDtkoLy-S-34" value="Enter the review web page in the VLA" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B3B3B3;" parent="1" vertex="1">
+                    <mxGeometry x="300" y="300" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="OZ8-94Fc8UWZDtkoLy-S-35" value="Choose the course and the instructor they want to review" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B3B3B3;" parent="1" vertex="1">
+                    <mxGeometry x="300" y="420" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="OZ8-94Fc8UWZDtkoLy-S-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="OZ8-94Fc8UWZDtkoLy-S-41" target="OZ8-94Fc8UWZDtkoLy-S-42" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="365" y="620"/>
+                            <mxPoint x="538" y="620"/>
+                            <mxPoint x="538" y="330"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="OZ8-94Fc8UWZDtkoLy-S-41" value="Write the review and rates the criterion of the instructor" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B3B3B3;" parent="1" vertex="1">
+                    <mxGeometry x="305" y="540" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="OZ8-94Fc8UWZDtkoLy-S-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OZ8-94Fc8UWZDtkoLy-S-42" target="OZ8-94Fc8UWZDtkoLy-S-44" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="OZ8-94Fc8UWZDtkoLy-S-42" value="Saved in the revirews table in the database" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B3B3B3;" parent="1" vertex="1">
+                    <mxGeometry x="650" y="300" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="OZ8-94Fc8UWZDtkoLy-S-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="OZ8-94Fc8UWZDtkoLy-S-44" target="OZ8-94Fc8UWZDtkoLy-S-48" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="OZ8-94Fc8UWZDtkoLy-S-44" value="Check the review" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B3B3B3;" parent="1" vertex="1">
+                    <mxGeometry x="1020" y="300" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="OZ8-94Fc8UWZDtkoLy-S-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="OZ8-94Fc8UWZDtkoLy-S-48" target="OZ8-94Fc8UWZDtkoLy-S-52" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="OZ8-94Fc8UWZDtkoLy-S-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="OZ8-94Fc8UWZDtkoLy-S-48" target="OZ8-94Fc8UWZDtkoLy-S-51" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="1220" y="435"/>
+                            <mxPoint x="1220" y="590"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="OZ8-94Fc8UWZDtkoLy-S-48" value="" style="rhombus;whiteSpace=wrap;html=1;fillColor=#B9E0A5;" parent="1" vertex="1">
+                    <mxGeometry x="1050" y="410" width="60" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="OZ8-94Fc8UWZDtkoLy-S-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="OZ8-94Fc8UWZDtkoLy-S-51" target="OZ8-94Fc8UWZDtkoLy-S-62" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="OZ8-94Fc8UWZDtkoLy-S-51" value="The review is deleted from the database" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B3B3B3;" parent="1" vertex="1">
+                    <mxGeometry x="730" y="560" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="OZ8-94Fc8UWZDtkoLy-S-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="OZ8-94Fc8UWZDtkoLy-S-52" target="OZ8-94Fc8UWZDtkoLy-S-62" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="OZ8-94Fc8UWZDtkoLy-S-52" value="The review is saved in the database and made public for other students to see it" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B3B3B3;" parent="1" vertex="1">
+                    <mxGeometry x="720" y="440" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="OZ8-94Fc8UWZDtkoLy-S-56" value="Appropriate" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+                    <mxGeometry x="950" y="410" width="80" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="OZ8-94Fc8UWZDtkoLy-S-57" value="Inappropriate" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+                    <mxGeometry x="1120" y="410" width="90" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="OZ8-94Fc8UWZDtkoLy-S-60" value="Review sent to the adminitrator" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+                    <mxGeometry x="800" y="310" width="180" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="OZ8-94Fc8UWZDtkoLy-S-62" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" parent="1" vertex="1">
+                    <mxGeometry x="600" y="520" width="30" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="OZ8-94Fc8UWZDtkoLy-S-65" value="The review is submitted" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+                    <mxGeometry x="390" y="600" width="140" height="20" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>

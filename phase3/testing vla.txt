@@ -1,0 +1,10 @@
+noteID | FilePath | Student ID | Course ID | boolean isPublic | boolean isApproved
+
+2042424 | ajlkfds.txt | 4234230 | 24982304 | false | false
+2045865 | ajlkfds.txt | 4234230 | 24982304 | false | false
+2006832 | ajlkfds.txt | 42304230 | 24982304 | false | false
+2018965 | ajlkfds.txt | 42304230 | 24982304 | false | false 
+27462540 | notex.txt | 202000865 | 204283 | false | false
+836251573 | notex.txt | 202000865 | 204283 | false | false
+
+review ID | string comment | date time posted | ratings array | instructor ID | student ID | course ID | can be published boolean
